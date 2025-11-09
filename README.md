@@ -23,9 +23,9 @@
 ### 🗂️ Portfolio Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Marketing Campaign Dashboard](https://github.com/Lu1ro/marketing-dashboard) | Analyzed ad performance from Google Ads and Meta. | Power BI, Google Sheets |
-| [Sales Data Analysis](https://github.com/Lu1ro/sales-analysis) | Cleaned and visualized sales data to find trends. | Excel, SQL |
-| [Customer Retention Study](https://github.com/Lu1ro/customer-retention) | Analyzed customer churn and retention patterns. | Python, Pandas |
+| [Marketing Campaign Dashboard](https://github.com/QWERTytion/marketing-dashboard) | Analyzed ad performance from Google Ads and Meta. | Power BI, Google Sheets |
+| [Sales Data Analysis](https://github.com/QWERTytion/sales-analysis) | Cleaned and visualized sales data to find trends. | Excel, SQL |
+| [Customer Retention Study](https://github.com/QWERTytion/customer-retention) | Analyzed customer churn and retention patterns. | Python, Pandas |
 
 ---
 
