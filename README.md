@@ -1,22 +1,24 @@
-# Lu1ro
-👋 Hi, I'm Lu1ro!
-
-🎯 **Data Analyst** with 2 years of experience at **Smarttel** — focusing on marketing analytics, reporting, and process optimization.  
-📍 Based in Ukraine | 💻 Working remotely worldwide  
-📊 Skilled in **SQL, Excel, Power BI, and Google Sheets**  
-📈 Passionate about transforming raw data into actionable insights.
+Hi, I'm Lukian 👋  
+### Junior Data Analyst | 2 Years Experience @ SmartTel | SQL • Python • Power BI • Excel  
 
 ---
 
-### 🧠 Experience
+## 🏢 Experience  
+### SmartTel — Data Analyst (2022–2024)
+- Analyzed customer behavior using SQL  
+- Cleaned and transformed datasets (10k–50k+ rows)  
+- Built weekly sales performance reports  
+- Created dashboards in Excel and Power BI  
+- Supported decision-making across marketing & sales  
+- Contributed to 5–10% sales growth through insights  
 
-**Data Analyst — Smarttel**  
-📅 *Jan 2023 – Oct 2025*  
-📍 Remote  
+---
 
-- Analyzed advertising and marketing campaigns to optimize performance.  
-- Built dashboards and reports in Power BI and Google Sheets to track key metrics (CPC, CPA, ROAS, Conversion Rate).  
-- Cleaned and validated datasets for accurate decision-making.  
+## 🛠 Skills  
+**Data Analysis:** SQL, Python (Pandas, NumPy), Excel  
+**Visualization:** Power BI, Matplotlib, Seaborn  
+**Other:** Data cleaning, business metrics, reporting
+
 
 ---
 
